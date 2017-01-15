@@ -37,5 +37,8 @@
   },
   "preferGlobal": true,
   "private": false,
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "rsync": "^0.6.1"
+  }
 }
