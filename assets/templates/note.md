@@ -1,3 +1,4 @@
+---
 title: [% title %]
 category: [% category %]
 time: [% time %]
